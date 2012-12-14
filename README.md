@@ -18,5 +18,5 @@ and piped that into the stream editor sed to replace part of the contig
 name with a tab. The output should have 3 columns.
 
 ```bash
-awk '{ print $1"\t"$3 }' Pglacialis/DOXP.tbl | sed 's/v3_/v3\t/g' > Pglacialis/DOXP.contigs
+awk '{ print $1"\t"$3 }' Pglacialis/DOXP.tbl | sed 's/v3_/v3\t/g' | tail -n +4 > Pglacialis/DOXP.contigs
 ```
