@@ -1,0 +1,64 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name            accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------  -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+DXP_synthase_N       PF13292.1  comp248_c2_seq3.v3_revCompRF:1 -            1.2e-08   24.0   0.0   4.4e-05   12.4   0.0   2.0   1   1   1   2   2   0   0 1-deoxy-D-xylulose-5-phosphate synthase
+DXP_synthase_N       PF13292.1  comp248_c2_seq3.v3_revCompRF:1 -            1.2e-08   24.0   0.0   4.4e-05   12.4   0.0   2.0   1   1   1   2   2   0   0 1-deoxy-D-xylulose-5-phosphate synthase
+DXP_synthase_N       PF13292.1  comp248_c2_seq9.v3_revCompRF:0 -            1.2e-08   24.0   1.1   7.5e-06   14.9   0.0   2.6   2   1   1   3   3   0   0 1-deoxy-D-xylulose-5-phosphate synthase
+DXP_synthase_N       PF13292.1  comp248_c2_seq9.v3_revCompRF:0 -            1.2e-08   24.0   1.1   7.5e-06   14.9   0.0   2.6   2   1   1   3   3   0   0 1-deoxy-D-xylulose-5-phosphate synthase
+DXP_synthase_N       PF13292.1  comp510_c2_seq3.v3_revCompRF:0 -            4.7e-08   22.1   0.1   1.3e-07   20.6   0.0   1.6   2   0   0   2   2   0   0 1-deoxy-D-xylulose-5-phosphate synthase
+DXP_synthase_N       PF13292.1  comp510_c2_seq3.v3_revCompRF:0 -            4.7e-08   22.1   0.1   1.3e-07   20.6   0.0   1.6   2   0   0   2   2   0   0 1-deoxy-D-xylulose-5-phosphate synthase
+IspD                 PF01128.14 comp218690_c0_seq1.v3_revCompRF:1 -            1.9e-10   30.5   0.1   2.1e-10   30.4   0.1   1.1   1   0   0   1   1   1   1 Uncharacterized protein family UPF0007
+IspD                 PF01128.14 comp218690_c0_seq1.v3_revCompRF:1 -            1.9e-10   30.5   0.1   2.1e-10   30.4   0.1   1.1   1   0   0   1   1   1   1 Uncharacterized protein family UPF0007
+IspD                 PF01128.14 comp219106_c0_seq1.v3_RF:2 -            1.9e-18   56.7   0.0     2e-18   56.6   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein family UPF0007
+IspD                 PF01128.14 comp219106_c0_seq1.v3_RF:2 -            1.9e-18   56.7   0.0     2e-18   56.6   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein family UPF0007
+GHMP_kinases_N       PF00288.21 comp224402_c0_seq1.v3_RF:2 -              2e-13   40.2   0.0   2.3e-13   40.1   0.0   1.0   1   0   0   1   1   1   1 GHMP kinases N terminal domain
+GHMP_kinases_N       PF00288.21 comp224402_c0_seq1.v3_RF:2 -              2e-13   40.2   0.0   2.3e-13   40.1   0.0   1.0   1   0   0   1   1   1   1 GHMP kinases N terminal domain
+GHMP_kinases_N       PF00288.21 comp224402_c0_seq2.v3_RF:2 -            1.1e-10   31.5   0.1   1.1e-10   31.4   0.1   1.1   1   0   0   1   1   1   1 GHMP kinases N terminal domain
+GHMP_kinases_N       PF00288.21 comp224402_c0_seq2.v3_RF:2 -            1.1e-10   31.5   0.1   1.1e-10   31.4   0.1   1.1   1   0   0   1   1   1   1 GHMP kinases N terminal domain
+IspD                 PF01128.14 comp240534_c0_seq1.v3_revCompRF:2 -            1.6e-07   20.9   0.0   1.8e-07   20.7   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein family UPF0007
+IspD                 PF01128.14 comp240534_c0_seq1.v3_revCompRF:2 -            1.6e-07   20.9   0.0   1.8e-07   20.7   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein family UPF0007
+LYTB                 PF02401.13 comp243560_c0_seq1.v3_revCompRF:0 -            2.9e-07   19.5   0.0     3e-07   19.5   0.0   1.0   1   0   0   1   1   1   1 LytB protein
+GHMP_kinases_N       PF00288.21 comp249757_c0_seq1.v3_revCompRF:1 -            1.5e-20   63.0   0.3   1.7e-20   62.9   0.2   1.0   1   0   0   1   1   1   1 GHMP kinases N terminal domain
+GHMP_kinases_N       PF00288.21 comp249757_c0_seq1.v3_revCompRF:1 -            1.5e-20   63.0   0.3   1.7e-20   62.9   0.2   1.0   1   0   0   1   1   1   1 GHMP kinases N terminal domain
+GHMP_kinases_N       PF00288.21 comp29294_c0_seq1.v3_revCompRF:0 -            5.8e-16   48.4   0.5   1.4e-15   47.1   0.0   1.9   2   0   0   2   2   1   1 GHMP kinases N terminal domain
+GHMP_kinases_N       PF00288.21 comp29294_c0_seq1.v3_revCompRF:0 -            5.8e-16   48.4   0.5   1.4e-15   47.1   0.0   1.9   2   0   0   2   2   1   1 GHMP kinases N terminal domain
+LYTB                 PF02401.13 comp282841_c0_seq1.v3_RF:0 -            1.5e-27   86.0   0.1   1.6e-27   86.0   0.1   1.0   1   0   0   1   1   1   1 LytB protein
+LYTB                 PF02401.13 comp346569_c0_seq1.v3_revCompRF:2 -            2.4e-09   26.3   0.1   2.8e-09   26.1   0.0   1.1   1   0   0   1   1   1   1 LytB protein
+GcpE                 PF04551.9  comp351301_c0_seq1.v3_RF:0 -            1.6e-11   33.4   0.0   1.6e-11   33.4   0.0   1.0   1   0   0   1   1   1   1 GcpE protein
+GcpE                 PF04551.9  comp351301_c0_seq1.v3_RF:0 -            1.6e-11   33.4   0.0   1.6e-11   33.4   0.0   1.0   1   0   0   1   1   1   1 GcpE protein
+GHMP_kinases_N       PF00288.21 comp39173_c0_seq1.v3_RF:0 -            2.3e-15   46.4   0.2   4.6e-15   45.5   0.1   1.5   1   0   0   1   1   1   1 GHMP kinases N terminal domain
+GHMP_kinases_N       PF00288.21 comp39173_c0_seq1.v3_RF:0 -            2.3e-15   46.4   0.2   4.6e-15   45.5   0.1   1.5   1   0   0   1   1   1   1 GHMP kinases N terminal domain
+GHMP_kinases_N       PF00288.21 comp39173_c0_seq2.v3_RF:0 -            7.4e-15   44.8   0.2   1.5e-14   43.9   0.1   1.5   1   0   0   1   1   1   1 GHMP kinases N terminal domain
+GHMP_kinases_N       PF00288.21 comp39173_c0_seq2.v3_RF:0 -            7.4e-15   44.8   0.2   1.5e-14   43.9   0.1   1.5   1   0   0   1   1   1   1 GHMP kinases N terminal domain
+LYTB                 PF02401.13 comp5001_c1_seq1.v3_revCompRF:0 -            5.1e-83  268.0   0.1   1.3e-64  207.6   0.0   2.2   2   0   0   2   2   2   2 LytB protein
+DXP_reductoisom      PF02670.11 comp5698_c0_seq1.v3_revCompRF:2 -            2.3e-41  131.3   0.0   4.8e-41  130.3   0.0   1.6   1   0   0   1   1   1   1 1-deoxy-D-xylulose 5-phosphate reductoisomerase
+IspD                 PF01128.14 comp48651_c0_seq1.v3_revCompRF:2 -            1.3e-44  142.2   0.7   1.5e-44  142.0   0.5   1.0   1   0   0   1   1   1   1 Uncharacterized protein family UPF0007
+IspD                 PF01128.14 comp48651_c0_seq1.v3_revCompRF:2 -            1.3e-44  142.2   0.7   1.5e-44  142.0   0.5   1.0   1   0   0   1   1   1   1 Uncharacterized protein family UPF0007
+IspD                 PF01128.14 comp48651_c0_seq2.v3_revCompRF:1 -            1.1e-43  139.2   0.3   1.2e-43  139.1   0.2   1.0   1   0   0   1   1   1   1 Uncharacterized protein family UPF0007
+IspD                 PF01128.14 comp48651_c0_seq2.v3_revCompRF:1 -            1.1e-43  139.2   0.3   1.2e-43  139.1   0.2   1.0   1   0   0   1   1   1   1 Uncharacterized protein family UPF0007
+GcpE                 PF04551.9  comp6727_c0_seq1.v3_RF:1 -            2.3e-55  177.6   0.1   2.9e-55  177.3   0.1   1.1   1   0   0   1   1   1   1 GcpE protein
+GcpE                 PF04551.9  comp6727_c0_seq1.v3_RF:1 -            2.3e-55  177.6   0.1   2.9e-55  177.3   0.1   1.1   1   0   0   1   1   1   1 GcpE protein
+GcpE                 PF04551.9  comp6727_c0_seq3.v3_RF:1 -           1.6e-149  487.4   0.0  1.9e-149  487.1   0.0   1.1   1   0   0   1   1   1   1 GcpE protein
+GcpE                 PF04551.9  comp6727_c0_seq3.v3_RF:1 -           1.6e-149  487.4   0.0  1.9e-149  487.1   0.0   1.1   1   0   0   1   1   1   1 GcpE protein
+IspD                 PF01128.14 comp63508_c0_seq1.v3_revCompRF:1 -              2e-08   23.9   0.0   2.2e-08   23.7   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein family UPF0007
+IspD                 PF01128.14 comp63508_c0_seq1.v3_revCompRF:1 -              2e-08   23.9   0.0   2.2e-08   23.7   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein family UPF0007
+YgbB                 PF02542.11 comp67532_c0_seq1.v3_RF:1 -            4.6e-10   29.5   0.1   4.8e-10   29.4   0.1   1.0   1   0   0   1   1   1   1 YgbB family
+YgbB                 PF02542.11 comp67532_c0_seq1.v3_RF:1 -            4.6e-10   29.5   0.1   4.8e-10   29.4   0.1   1.0   1   0   0   1   1   1   1 YgbB family
+YgbB                 PF02542.11 comp67532_c0_seq2.v3_RF:0 -            8.7e-54  171.5   0.0   1.1e-53  171.2   0.0   1.1   1   0   0   1   1   1   1 YgbB family
+YgbB                 PF02542.11 comp67532_c0_seq2.v3_RF:0 -            8.7e-54  171.5   0.0   1.1e-53  171.2   0.0   1.1   1   0   0   1   1   1   1 YgbB family
+GHMP_kinases_N       PF00288.21 comp76445_c0_seq1.v3_RF:2 -            3.8e-10   29.7   0.6   9.3e-10   28.5   0.4   1.7   1   0   0   1   1   1   1 GHMP kinases N terminal domain
+GHMP_kinases_N       PF00288.21 comp76445_c0_seq1.v3_RF:2 -            3.8e-10   29.7   0.6   9.3e-10   28.5   0.4   1.7   1   0   0   1   1   1   1 GHMP kinases N terminal domain
+GcpE                 PF04551.9  comp8493_c0_seq1.v3_revCompRF:0 -           1.3e-153  500.8   0.0  6.8e-153  498.5   0.0   1.8   1   1   0   1   1   1   1 GcpE protein
+GcpE                 PF04551.9  comp8493_c0_seq1.v3_revCompRF:0 -           1.3e-153  500.8   0.0  6.8e-153  498.5   0.0   1.8   1   1   0   1   1   1   1 GcpE protein
+DXP_synthase_N       PF13292.1  comp11181_c0_seq1.v3_RF:2 -            3.3e-92  298.0   0.3   4.8e-91  294.2   0.1   2.5   2   1   0   2   2   1   1 1-deoxy-D-xylulose-5-phosphate synthase
+DXP_synthase_N       PF13292.1  comp11181_c0_seq1.v3_RF:2 -            3.3e-92  298.0   0.3   4.8e-91  294.2   0.1   2.5   2   1   0   2   2   1   1 1-deoxy-D-xylulose-5-phosphate synthase
+DXP_synthase_N       PF13292.1  comp11181_c0_seq2.v3_RF:2 -              3e-71  229.3   0.4   6.4e-71  228.2   0.3   1.5   1   0   0   1   1   1   1 1-deoxy-D-xylulose-5-phosphate synthase
+DXP_synthase_N       PF13292.1  comp11181_c0_seq2.v3_RF:2 -              3e-71  229.3   0.4   6.4e-71  228.2   0.3   1.5   1   0   0   1   1   1   1 1-deoxy-D-xylulose-5-phosphate synthase
+DXP_synthase_N       PF13292.1  comp11181_c0_seq3.v3_RF:0 -            7.6e-60  191.9   0.3   9.1e-60  191.7   0.2   1.0   1   0   0   1   1   1   1 1-deoxy-D-xylulose-5-phosphate synthase
+DXP_synthase_N       PF13292.1  comp11181_c0_seq3.v3_RF:0 -            7.6e-60  191.9   0.3   9.1e-60  191.7   0.2   1.0   1   0   0   1   1   1   1 1-deoxy-D-xylulose-5-phosphate synthase
+DXP_synthase_N       PF13292.1  comp101751_c0_seq1.v3_RF:2 -            2.6e-15   45.9   0.0   2.7e-15   45.9   0.0   1.0   1   0   0   1   1   1   1 1-deoxy-D-xylulose-5-phosphate synthase
+DXP_synthase_N       PF13292.1  comp101751_c0_seq1.v3_RF:2 -            2.6e-15   45.9   0.0   2.7e-15   45.9   0.0   1.0   1   0   0   1   1   1   1 1-deoxy-D-xylulose-5-phosphate synthase
+GHMP_kinases_N       PF00288.21 comp133471_c0_seq1.v3_RF:0 -            1.5e-12   37.5   3.4     1e-11   34.7   2.3   1.9   1   1   0   1   1   1   1 GHMP kinases N terminal domain
+GHMP_kinases_N       PF00288.21 comp133471_c0_seq1.v3_RF:0 -            1.5e-12   37.5   3.4     1e-11   34.7   2.3   1.9   1   1   0   1   1   1   1 GHMP kinases N terminal domain
+GHMP_kinases_N       PF00288.21 comp156395_c0_seq1.v3_RF:1 -            1.1e-08   25.1   0.0   1.6e-08   24.6   0.0   1.2   1   0   0   1   1   1   1 GHMP kinases N terminal domain
+GHMP_kinases_N       PF00288.21 comp156395_c0_seq1.v3_RF:1 -            1.1e-08   25.1   0.0   1.6e-08   24.6   0.0   1.2   1   0   0   1   1   1   1 GHMP kinases N terminal domain
